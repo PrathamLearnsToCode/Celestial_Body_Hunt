@@ -9,3 +9,6 @@ Pulsars are a rare type of Neutron star that produce radio emission detectable h
 Project Number 2: Predicting_star_type:
 
 The purpose of making this multiclass classification is to prove that the stars follows a certain graph in the celestial Space ,specifically called Hertzsprung-Russell Diagram or simply HR-Diagram so that we can classify stars of various spectral class namely (O,B,A,F,G,K,M) by plotting its features based on that graph.
+
+
+Project Number 3: Potential_asteroid_collison
